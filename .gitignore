@@ -1,0 +1,4 @@
+__pycache__/
+instance/zabbix_monitor.db
+.venv/
+app.log
